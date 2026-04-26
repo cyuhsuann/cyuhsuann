@@ -1,4 +1,4 @@
-# Sian Chang
+# Sian C.
 
 Backend systems and AI infrastructure. Currently building an AI meeting intelligence platform at QuantalAI in Brisbane as the sole backend engineer.
 
